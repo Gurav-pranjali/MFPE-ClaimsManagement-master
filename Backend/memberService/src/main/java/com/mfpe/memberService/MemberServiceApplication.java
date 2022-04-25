@@ -44,9 +44,9 @@ public class MemberServiceApplication {
 				"Member Module",
 				"Claims Management Microservice",
 				"1.0",
-				"Ankit - Programmer Analyst Trainee || Full Stack ...in.linkedin.com",
-				new Contact("Ankit", "something.com","ankitlnu4@cognizant.com"),
-				"FSE", "https://hello.ankit.com",
+				"MFPE - Programmer Analyst Trainee || Full Stack ...in.linkedin.com",
+				new Contact("MFPE", "something.com","MFPE@cognizant.com"),
+				"FSE", "https://hello.MFPE.com",
 				Collections.emptyList()
 		);
 	}
